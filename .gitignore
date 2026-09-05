@@ -1,0 +1,14 @@
+# Project exclude paths
+/demo/target/
+
+# Project exclude paths
+/demo/target/
+
+# Environment variables / secrets
+.env
+
+# Maven build output
+target/
+
+# Spring Boot configuration containing secrets
+src/main/resources/application.properties
